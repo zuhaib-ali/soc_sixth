@@ -1,0 +1,184 @@
+[17-Jan-2022 08:22:53 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.0.0". You are running 7.4.27. in /home/gbsprojects/public_html/soc_sixth/vendor/composer/platform_check.php on line 24
+[17-Jan-2022 09:31:20 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.0.0". You are running 7.4.27. in /home/gbsprojects/public_html/soc_sixth/vendor/composer/platform_check.php on line 24
+[12-Feb-2022 05:23:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Illuminate\Support\Collection::getArrayableItems() in /home/gbsprojects/public_html/soc_sixth/vendor/laravel/framework/src/Illuminate/Collections/Collection.php:31
+Stack trace:
+#0 /home/gbsprojects/public_html/soc_sixth/vendor/laravel/framework/src/Illuminate/Collections/helpers.php(15): Illuminate\Support\Collection->__construct(Array)
+#1 /home/gbsprojects/public_html/soc_sixth/vendor/laravel/framework/src/Illuminate/Support/Traits/ReflectsClosures.php(49): collect(Array)
+#2 /home/gbsprojects/public_html/soc_sixth/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/ReportableHandler.php(62): Illuminate\Foundation\Exceptions\ReportableHandler->firstClosureParameterTypes(Object(Closure))
+#3 /home/gbsprojects/public_html/soc_sixth/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(234): Illuminate\Foundation\Exceptions\ReportableHandler->handles(Object(Error))
+#4 /home/gbsprojects/public_html/soc_sixth/vendor/laravel/framework/src/Illumin in /home/gbsprojects/public_html/soc_sixth/vendor/laravel/framework/src/Illuminate/Collections/Collection.php on line 31
+[12-Feb-2022 05:23:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Illuminate\Support\Collection::getArrayableItems() in /home/gbsprojects/public_html/soc_sixth/vendor/laravel/framework/src/Illuminate/Collections/Collection.php:31
+Stack trace:
+#0 /home/gbsprojects/public_html/soc_sixth/vendor/laravel/framework/src/Illuminate/Collections/helpers.php(15): Illuminate\Support\Collection->__construct(Array)
+#1 /home/gbsprojects/public_html/soc_sixth/vendor/laravel/framework/src/Illuminate/Support/Traits/ReflectsClosures.php(49): collect(Array)
+#2 /home/gbsprojects/public_html/soc_sixth/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/ReportableHandler.php(62): Illuminate\Foundation\Exceptions\ReportableHandler->firstClosureParameterTypes(Object(Closure))
+#3 /home/gbsprojects/public_html/soc_sixth/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(234): Illuminate\Foundation\Exceptions\ReportableHandler->handles(Object(Error))
+#4 /home/gbsprojects/public_html/soc_sixth/vendor/laravel/framework/src/Illumin in /home/gbsprojects/public_html/soc_sixth/vendor/laravel/framework/src/Illuminate/Collections/Collection.php on line 31
+[12-Feb-2022 05:26:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Illuminate\Support\Collection::getArrayableItems() in /home/gbsprojects/public_html/soc_sixth/vendor/laravel/framework/src/Illuminate/Collections/Collection.php:31
+Stack trace:
+#0 /home/gbsprojects/public_html/soc_sixth/vendor/laravel/framework/src/Illuminate/Collections/helpers.php(15): Illuminate\Support\Collection->__construct(Array)
+#1 /home/gbsprojects/public_html/soc_sixth/vendor/laravel/framework/src/Illuminate/Support/Traits/ReflectsClosures.php(49): collect(Array)
+#2 /home/gbsprojects/public_html/soc_sixth/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/ReportableHandler.php(62): Illuminate\Foundation\Exceptions\ReportableHandler->firstClosureParameterTypes(Object(Closure))
+#3 /home/gbsprojects/public_html/soc_sixth/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(234): Illuminate\Foundation\Exceptions\ReportableHandler->handles(Object(Error))
+#4 /home/gbsprojects/public_html/soc_sixth/vendor/laravel/framework/src/Illumin in /home/gbsprojects/public_html/soc_sixth/vendor/laravel/framework/src/Illuminate/Collections/Collection.php on line 31
+[12-Feb-2022 05:26:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Illuminate\Support\Collection::getArrayableItems() in /home/gbsprojects/public_html/soc_sixth/vendor/laravel/framework/src/Illuminate/Collections/Collection.php:31
+Stack trace:
+#0 /home/gbsprojects/public_html/soc_sixth/vendor/laravel/framework/src/Illuminate/Collections/helpers.php(15): Illuminate\Support\Collection->__construct(Array)
+#1 /home/gbsprojects/public_html/soc_sixth/vendor/laravel/framework/src/Illuminate/Support/Traits/ReflectsClosures.php(49): collect(Array)
+#2 /home/gbsprojects/public_html/soc_sixth/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/ReportableHandler.php(62): Illuminate\Foundation\Exceptions\ReportableHandler->firstClosureParameterTypes(Object(Closure))
+#3 /home/gbsprojects/public_html/soc_sixth/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(234): Illuminate\Foundation\Exceptions\ReportableHandler->handles(Object(Error))
+#4 /home/gbsprojects/public_html/soc_sixth/vendor/laravel/framework/src/Illumin in /home/gbsprojects/public_html/soc_sixth/vendor/laravel/framework/src/Illuminate/Collections/Collection.php on line 31
+[12-Feb-2022 05:26:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Illuminate\Support\Collection::getArrayableItems() in /home/gbsprojects/public_html/soc_sixth/vendor/laravel/framework/src/Illuminate/Collections/Collection.php:31
+Stack trace:
+#0 /home/gbsprojects/public_html/soc_sixth/vendor/laravel/framework/src/Illuminate/Collections/helpers.php(15): Illuminate\Support\Collection->__construct(Array)
+#1 /home/gbsprojects/public_html/soc_sixth/vendor/laravel/framework/src/Illuminate/Support/Traits/ReflectsClosures.php(49): collect(Array)
+#2 /home/gbsprojects/public_html/soc_sixth/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/ReportableHandler.php(62): Illuminate\Foundation\Exceptions\ReportableHandler->firstClosureParameterTypes(Object(Closure))
+#3 /home/gbsprojects/public_html/soc_sixth/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(234): Illuminate\Foundation\Exceptions\ReportableHandler->handles(Object(Error))
+#4 /home/gbsprojects/public_html/soc_sixth/vendor/laravel/framework/src/Illumin in /home/gbsprojects/public_html/soc_sixth/vendor/laravel/framework/src/Illuminate/Collections/Collection.php on line 31
+[12-Feb-2022 05:26:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Illuminate\Support\Collection::getArrayableItems() in /home/gbsprojects/public_html/soc_sixth/vendor/laravel/framework/src/Illuminate/Collections/Collection.php:31
+Stack trace:
+#0 /home/gbsprojects/public_html/soc_sixth/vendor/laravel/framework/src/Illuminate/Collections/helpers.php(15): Illuminate\Support\Collection->__construct(Array)
+#1 /home/gbsprojects/public_html/soc_sixth/vendor/laravel/framework/src/Illuminate/Support/Traits/ReflectsClosures.php(49): collect(Array)
+#2 /home/gbsprojects/public_html/soc_sixth/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/ReportableHandler.php(62): Illuminate\Foundation\Exceptions\ReportableHandler->firstClosureParameterTypes(Object(Closure))
+#3 /home/gbsprojects/public_html/soc_sixth/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(234): Illuminate\Foundation\Exceptions\ReportableHandler->handles(Object(Error))
+#4 /home/gbsprojects/public_html/soc_sixth/vendor/laravel/framework/src/Illumin in /home/gbsprojects/public_html/soc_sixth/vendor/laravel/framework/src/Illuminate/Collections/Collection.php on line 31
+[12-Feb-2022 05:29:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Illuminate\Support\Collection::getArrayableItems() in /home/gbsprojects/public_html/soc_sixth/vendor/laravel/framework/src/Illuminate/Collections/Collection.php:31
+Stack trace:
+#0 /home/gbsprojects/public_html/soc_sixth/vendor/laravel/framework/src/Illuminate/Collections/helpers.php(15): Illuminate\Support\Collection->__construct(Array)
+#1 /home/gbsprojects/public_html/soc_sixth/vendor/laravel/framework/src/Illuminate/Support/Traits/ReflectsClosures.php(49): collect(Array)
+#2 /home/gbsprojects/public_html/soc_sixth/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/ReportableHandler.php(62): Illuminate\Foundation\Exceptions\ReportableHandler->firstClosureParameterTypes(Object(Closure))
+#3 /home/gbsprojects/public_html/soc_sixth/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(234): Illuminate\Foundation\Exceptions\ReportableHandler->handles(Object(Error))
+#4 /home/gbsprojects/public_html/soc_sixth/vendor/laravel/framework/src/Illumin in /home/gbsprojects/public_html/soc_sixth/vendor/laravel/framework/src/Illuminate/Collections/Collection.php on line 31
+[12-Feb-2022 05:29:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Illuminate\Support\Collection::getArrayableItems() in /home/gbsprojects/public_html/soc_sixth/vendor/laravel/framework/src/Illuminate/Collections/Collection.php:31
+Stack trace:
+#0 /home/gbsprojects/public_html/soc_sixth/vendor/laravel/framework/src/Illuminate/Collections/helpers.php(15): Illuminate\Support\Collection->__construct(Array)
+#1 /home/gbsprojects/public_html/soc_sixth/vendor/laravel/framework/src/Illuminate/Support/Traits/ReflectsClosures.php(49): collect(Array)
+#2 /home/gbsprojects/public_html/soc_sixth/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/ReportableHandler.php(62): Illuminate\Foundation\Exceptions\ReportableHandler->firstClosureParameterTypes(Object(Closure))
+#3 /home/gbsprojects/public_html/soc_sixth/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(234): Illuminate\Foundation\Exceptions\ReportableHandler->handles(Object(Error))
+#4 /home/gbsprojects/public_html/soc_sixth/vendor/laravel/framework/src/Illumin in /home/gbsprojects/public_html/soc_sixth/vendor/laravel/framework/src/Illuminate/Collections/Collection.php on line 31
+[12-Feb-2022 05:38:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Illuminate\Support\Collection::getArrayableItems() in /home/gbsprojects/public_html/soc_sixth/vendor/laravel/framework/src/Illuminate/Collections/Collection.php:31
+Stack trace:
+#0 /home/gbsprojects/public_html/soc_sixth/vendor/laravel/framework/src/Illuminate/Collections/helpers.php(15): Illuminate\Support\Collection->__construct(Array)
+#1 /home/gbsprojects/public_html/soc_sixth/vendor/laravel/framework/src/Illuminate/Support/Traits/ReflectsClosures.php(49): collect(Array)
+#2 /home/gbsprojects/public_html/soc_sixth/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/ReportableHandler.php(62): Illuminate\Foundation\Exceptions\ReportableHandler->firstClosureParameterTypes(Object(Closure))
+#3 /home/gbsprojects/public_html/soc_sixth/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(234): Illuminate\Foundation\Exceptions\ReportableHandler->handles(Object(Error))
+#4 /home/gbsprojects/public_html/soc_sixth/vendor/laravel/framework/src/Illumin in /home/gbsprojects/public_html/soc_sixth/vendor/laravel/framework/src/Illuminate/Collections/Collection.php on line 31
+[12-Feb-2022 05:38:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Illuminate\Support\Collection::getArrayableItems() in /home/gbsprojects/public_html/soc_sixth/vendor/laravel/framework/src/Illuminate/Collections/Collection.php:31
+Stack trace:
+#0 /home/gbsprojects/public_html/soc_sixth/vendor/laravel/framework/src/Illuminate/Collections/helpers.php(15): Illuminate\Support\Collection->__construct(Array)
+#1 /home/gbsprojects/public_html/soc_sixth/vendor/laravel/framework/src/Illuminate/Support/Traits/ReflectsClosures.php(49): collect(Array)
+#2 /home/gbsprojects/public_html/soc_sixth/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/ReportableHandler.php(62): Illuminate\Foundation\Exceptions\ReportableHandler->firstClosureParameterTypes(Object(Closure))
+#3 /home/gbsprojects/public_html/soc_sixth/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(234): Illuminate\Foundation\Exceptions\ReportableHandler->handles(Object(Error))
+#4 /home/gbsprojects/public_html/soc_sixth/vendor/laravel/framework/src/Illumin in /home/gbsprojects/public_html/soc_sixth/vendor/laravel/framework/src/Illuminate/Collections/Collection.php on line 31
+[12-Feb-2022 05:39:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Illuminate\Support\Collection::getArrayableItems() in /home/gbsprojects/public_html/soc_sixth/vendor/laravel/framework/src/Illuminate/Collections/Collection.php:31
+Stack trace:
+#0 /home/gbsprojects/public_html/soc_sixth/vendor/laravel/framework/src/Illuminate/Collections/helpers.php(15): Illuminate\Support\Collection->__construct(Array)
+#1 /home/gbsprojects/public_html/soc_sixth/vendor/laravel/framework/src/Illuminate/Support/Traits/ReflectsClosures.php(49): collect(Array)
+#2 /home/gbsprojects/public_html/soc_sixth/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/ReportableHandler.php(62): Illuminate\Foundation\Exceptions\ReportableHandler->firstClosureParameterTypes(Object(Closure))
+#3 /home/gbsprojects/public_html/soc_sixth/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(234): Illuminate\Foundation\Exceptions\ReportableHandler->handles(Object(Error))
+#4 /home/gbsprojects/public_html/soc_sixth/vendor/laravel/framework/src/Illumin in /home/gbsprojects/public_html/soc_sixth/vendor/laravel/framework/src/Illuminate/Collections/Collection.php on line 31
+[12-Feb-2022 05:39:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Illuminate\Support\Collection::getArrayableItems() in /home/gbsprojects/public_html/soc_sixth/vendor/laravel/framework/src/Illuminate/Collections/Collection.php:31
+Stack trace:
+#0 /home/gbsprojects/public_html/soc_sixth/vendor/laravel/framework/src/Illuminate/Collections/helpers.php(15): Illuminate\Support\Collection->__construct(Array)
+#1 /home/gbsprojects/public_html/soc_sixth/vendor/laravel/framework/src/Illuminate/Support/Traits/ReflectsClosures.php(49): collect(Array)
+#2 /home/gbsprojects/public_html/soc_sixth/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/ReportableHandler.php(62): Illuminate\Foundation\Exceptions\ReportableHandler->firstClosureParameterTypes(Object(Closure))
+#3 /home/gbsprojects/public_html/soc_sixth/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(234): Illuminate\Foundation\Exceptions\ReportableHandler->handles(Object(Error))
+#4 /home/gbsprojects/public_html/soc_sixth/vendor/laravel/framework/src/Illumin in /home/gbsprojects/public_html/soc_sixth/vendor/laravel/framework/src/Illuminate/Collections/Collection.php on line 31
+[12-Feb-2022 05:40:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Illuminate\Support\Collection::getArrayableItems() in /home/gbsprojects/public_html/soc_sixth/vendor/laravel/framework/src/Illuminate/Collections/Collection.php:31
+Stack trace:
+#0 /home/gbsprojects/public_html/soc_sixth/vendor/laravel/framework/src/Illuminate/Collections/helpers.php(15): Illuminate\Support\Collection->__construct(Array)
+#1 /home/gbsprojects/public_html/soc_sixth/vendor/laravel/framework/src/Illuminate/Support/Traits/ReflectsClosures.php(49): collect(Array)
+#2 /home/gbsprojects/public_html/soc_sixth/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/ReportableHandler.php(62): Illuminate\Foundation\Exceptions\ReportableHandler->firstClosureParameterTypes(Object(Closure))
+#3 /home/gbsprojects/public_html/soc_sixth/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(234): Illuminate\Foundation\Exceptions\ReportableHandler->handles(Object(Error))
+#4 /home/gbsprojects/public_html/soc_sixth/vendor/laravel/framework/src/Illumin in /home/gbsprojects/public_html/soc_sixth/vendor/laravel/framework/src/Illuminate/Collections/Collection.php on line 31
+[12-Feb-2022 05:41:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Illuminate\Support\Collection::getArrayableItems() in /home/gbsprojects/public_html/soc_sixth/vendor/laravel/framework/src/Illuminate/Collections/Collection.php:31
+Stack trace:
+#0 /home/gbsprojects/public_html/soc_sixth/vendor/laravel/framework/src/Illuminate/Collections/helpers.php(15): Illuminate\Support\Collection->__construct(Array)
+#1 /home/gbsprojects/public_html/soc_sixth/vendor/laravel/framework/src/Illuminate/Support/Traits/ReflectsClosures.php(49): collect(Array)
+#2 /home/gbsprojects/public_html/soc_sixth/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/ReportableHandler.php(62): Illuminate\Foundation\Exceptions\ReportableHandler->firstClosureParameterTypes(Object(Closure))
+#3 /home/gbsprojects/public_html/soc_sixth/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(234): Illuminate\Foundation\Exceptions\ReportableHandler->handles(Object(Error))
+#4 /home/gbsprojects/public_html/soc_sixth/vendor/laravel/framework/src/Illumin in /home/gbsprojects/public_html/soc_sixth/vendor/laravel/framework/src/Illuminate/Collections/Collection.php on line 31
+[12-Feb-2022 05:41:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Illuminate\Support\Collection::getArrayableItems() in /home/gbsprojects/public_html/soc_sixth/vendor/laravel/framework/src/Illuminate/Collections/Collection.php:31
+Stack trace:
+#0 /home/gbsprojects/public_html/soc_sixth/vendor/laravel/framework/src/Illuminate/Collections/helpers.php(15): Illuminate\Support\Collection->__construct(Array)
+#1 /home/gbsprojects/public_html/soc_sixth/vendor/laravel/framework/src/Illuminate/Support/Traits/ReflectsClosures.php(49): collect(Array)
+#2 /home/gbsprojects/public_html/soc_sixth/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/ReportableHandler.php(62): Illuminate\Foundation\Exceptions\ReportableHandler->firstClosureParameterTypes(Object(Closure))
+#3 /home/gbsprojects/public_html/soc_sixth/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(234): Illuminate\Foundation\Exceptions\ReportableHandler->handles(Object(Error))
+#4 /home/gbsprojects/public_html/soc_sixth/vendor/laravel/framework/src/Illumin in /home/gbsprojects/public_html/soc_sixth/vendor/laravel/framework/src/Illuminate/Collections/Collection.php on line 31
+[12-Feb-2022 05:41:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Illuminate\Support\Collection::getArrayableItems() in /home/gbsprojects/public_html/soc_sixth/vendor/laravel/framework/src/Illuminate/Collections/Collection.php:31
+Stack trace:
+#0 /home/gbsprojects/public_html/soc_sixth/vendor/laravel/framework/src/Illuminate/Collections/helpers.php(15): Illuminate\Support\Collection->__construct(Array)
+#1 /home/gbsprojects/public_html/soc_sixth/vendor/laravel/framework/src/Illuminate/Support/Traits/ReflectsClosures.php(49): collect(Array)
+#2 /home/gbsprojects/public_html/soc_sixth/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/ReportableHandler.php(62): Illuminate\Foundation\Exceptions\ReportableHandler->firstClosureParameterTypes(Object(Closure))
+#3 /home/gbsprojects/public_html/soc_sixth/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(234): Illuminate\Foundation\Exceptions\ReportableHandler->handles(Object(Error))
+#4 /home/gbsprojects/public_html/soc_sixth/vendor/laravel/framework/src/Illumin in /home/gbsprojects/public_html/soc_sixth/vendor/laravel/framework/src/Illuminate/Collections/Collection.php on line 31
+[12-Feb-2022 05:41:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Illuminate\Support\Collection::getArrayableItems() in /home/gbsprojects/public_html/soc_sixth/vendor/laravel/framework/src/Illuminate/Collections/Collection.php:31
+Stack trace:
+#0 /home/gbsprojects/public_html/soc_sixth/vendor/laravel/framework/src/Illuminate/Collections/helpers.php(15): Illuminate\Support\Collection->__construct(Array)
+#1 /home/gbsprojects/public_html/soc_sixth/vendor/laravel/framework/src/Illuminate/Support/Traits/ReflectsClosures.php(49): collect(Array)
+#2 /home/gbsprojects/public_html/soc_sixth/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/ReportableHandler.php(62): Illuminate\Foundation\Exceptions\ReportableHandler->firstClosureParameterTypes(Object(Closure))
+#3 /home/gbsprojects/public_html/soc_sixth/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(234): Illuminate\Foundation\Exceptions\ReportableHandler->handles(Object(Error))
+#4 /home/gbsprojects/public_html/soc_sixth/vendor/laravel/framework/src/Illumin in /home/gbsprojects/public_html/soc_sixth/vendor/laravel/framework/src/Illuminate/Collections/Collection.php on line 31
+[12-Feb-2022 05:44:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Illuminate\Support\Collection::getArrayableItems() in /home/gbsprojects/public_html/soc_sixth/vendor/laravel/framework/src/Illuminate/Collections/Collection.php:31
+Stack trace:
+#0 /home/gbsprojects/public_html/soc_sixth/vendor/laravel/framework/src/Illuminate/Collections/helpers.php(15): Illuminate\Support\Collection->__construct(Array)
+#1 /home/gbsprojects/public_html/soc_sixth/vendor/laravel/framework/src/Illuminate/Support/Traits/ReflectsClosures.php(49): collect(Array)
+#2 /home/gbsprojects/public_html/soc_sixth/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/ReportableHandler.php(62): Illuminate\Foundation\Exceptions\ReportableHandler->firstClosureParameterTypes(Object(Closure))
+#3 /home/gbsprojects/public_html/soc_sixth/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(234): Illuminate\Foundation\Exceptions\ReportableHandler->handles(Object(Error))
+#4 /home/gbsprojects/public_html/soc_sixth/vendor/laravel/framework/src/Illumin in /home/gbsprojects/public_html/soc_sixth/vendor/laravel/framework/src/Illuminate/Collections/Collection.php on line 31
+[12-Feb-2022 05:44:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Illuminate\Support\Collection::getArrayableItems() in /home/gbsprojects/public_html/soc_sixth/vendor/laravel/framework/src/Illuminate/Collections/Collection.php:31
+Stack trace:
+#0 /home/gbsprojects/public_html/soc_sixth/vendor/laravel/framework/src/Illuminate/Collections/helpers.php(15): Illuminate\Support\Collection->__construct(Array)
+#1 /home/gbsprojects/public_html/soc_sixth/vendor/laravel/framework/src/Illuminate/Support/Traits/ReflectsClosures.php(49): collect(Array)
+#2 /home/gbsprojects/public_html/soc_sixth/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/ReportableHandler.php(62): Illuminate\Foundation\Exceptions\ReportableHandler->firstClosureParameterTypes(Object(Closure))
+#3 /home/gbsprojects/public_html/soc_sixth/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(234): Illuminate\Foundation\Exceptions\ReportableHandler->handles(Object(Error))
+#4 /home/gbsprojects/public_html/soc_sixth/vendor/laravel/framework/src/Illumin in /home/gbsprojects/public_html/soc_sixth/vendor/laravel/framework/src/Illuminate/Collections/Collection.php on line 31
+[12-Feb-2022 05:47:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Illuminate\Support\Collection::getArrayableItems() in /home/gbsprojects/public_html/soc_sixth/vendor/laravel/framework/src/Illuminate/Collections/Collection.php:31
+Stack trace:
+#0 /home/gbsprojects/public_html/soc_sixth/vendor/laravel/framework/src/Illuminate/Collections/helpers.php(15): Illuminate\Support\Collection->__construct(Array)
+#1 /home/gbsprojects/public_html/soc_sixth/vendor/laravel/framework/src/Illuminate/Support/Traits/ReflectsClosures.php(49): collect(Array)
+#2 /home/gbsprojects/public_html/soc_sixth/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/ReportableHandler.php(62): Illuminate\Foundation\Exceptions\ReportableHandler->firstClosureParameterTypes(Object(Closure))
+#3 /home/gbsprojects/public_html/soc_sixth/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(234): Illuminate\Foundation\Exceptions\ReportableHandler->handles(Object(Error))
+#4 /home/gbsprojects/public_html/soc_sixth/vendor/laravel/framework/src/Illumin in /home/gbsprojects/public_html/soc_sixth/vendor/laravel/framework/src/Illuminate/Collections/Collection.php on line 31
+[12-Feb-2022 06:10:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Illuminate\Support\Collection::getArrayableItems() in /home/gbsprojects/public_html/soc_sixth/vendor/laravel/framework/src/Illuminate/Collections/Collection.php:31
+Stack trace:
+#0 /home/gbsprojects/public_html/soc_sixth/vendor/laravel/framework/src/Illuminate/Collections/helpers.php(15): Illuminate\Support\Collection->__construct(Array)
+#1 /home/gbsprojects/public_html/soc_sixth/vendor/laravel/framework/src/Illuminate/Support/Traits/ReflectsClosures.php(49): collect(Array)
+#2 /home/gbsprojects/public_html/soc_sixth/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/ReportableHandler.php(62): Illuminate\Foundation\Exceptions\ReportableHandler->firstClosureParameterTypes(Object(Closure))
+#3 /home/gbsprojects/public_html/soc_sixth/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(234): Illuminate\Foundation\Exceptions\ReportableHandler->handles(Object(Error))
+#4 /home/gbsprojects/public_html/soc_sixth/vendor/laravel/framework/src/Illumin in /home/gbsprojects/public_html/soc_sixth/vendor/laravel/framework/src/Illuminate/Collections/Collection.php on line 31
+[12-Feb-2022 06:12:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Illuminate\Support\Collection::getArrayableItems() in /home/gbsprojects/public_html/soc_sixth/vendor/laravel/framework/src/Illuminate/Collections/Collection.php:31
+Stack trace:
+#0 /home/gbsprojects/public_html/soc_sixth/vendor/laravel/framework/src/Illuminate/Collections/helpers.php(15): Illuminate\Support\Collection->__construct(Array)
+#1 /home/gbsprojects/public_html/soc_sixth/vendor/laravel/framework/src/Illuminate/Support/Traits/ReflectsClosures.php(49): collect(Array)
+#2 /home/gbsprojects/public_html/soc_sixth/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/ReportableHandler.php(62): Illuminate\Foundation\Exceptions\ReportableHandler->firstClosureParameterTypes(Object(Closure))
+#3 /home/gbsprojects/public_html/soc_sixth/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(234): Illuminate\Foundation\Exceptions\ReportableHandler->handles(Object(Error))
+#4 /home/gbsprojects/public_html/soc_sixth/vendor/laravel/framework/src/Illumin in /home/gbsprojects/public_html/soc_sixth/vendor/laravel/framework/src/Illuminate/Collections/Collection.php on line 31
+[12-Feb-2022 06:13:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Illuminate\Support\Collection::getArrayableItems() in /home/gbsprojects/public_html/soc_sixth/vendor/laravel/framework/src/Illuminate/Collections/Collection.php:31
+Stack trace:
+#0 /home/gbsprojects/public_html/soc_sixth/vendor/laravel/framework/src/Illuminate/Collections/helpers.php(15): Illuminate\Support\Collection->__construct(Array)
+#1 /home/gbsprojects/public_html/soc_sixth/vendor/laravel/framework/src/Illuminate/Support/Traits/ReflectsClosures.php(49): collect(Array)
+#2 /home/gbsprojects/public_html/soc_sixth/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/ReportableHandler.php(62): Illuminate\Foundation\Exceptions\ReportableHandler->firstClosureParameterTypes(Object(Closure))
+#3 /home/gbsprojects/public_html/soc_sixth/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(234): Illuminate\Foundation\Exceptions\ReportableHandler->handles(Object(Error))
+#4 /home/gbsprojects/public_html/soc_sixth/vendor/laravel/framework/src/Illumin in /home/gbsprojects/public_html/soc_sixth/vendor/laravel/framework/src/Illuminate/Collections/Collection.php on line 31
+[12-Feb-2022 06:15:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Illuminate\Support\Collection::getArrayableItems() in /home/gbsprojects/public_html/soc_sixth/vendor/laravel/framework/src/Illuminate/Collections/Collection.php:31
+Stack trace:
+#0 /home/gbsprojects/public_html/soc_sixth/vendor/laravel/framework/src/Illuminate/Collections/helpers.php(15): Illuminate\Support\Collection->__construct(Array)
+#1 /home/gbsprojects/public_html/soc_sixth/vendor/laravel/framework/src/Illuminate/Support/Traits/ReflectsClosures.php(49): collect(Array)
+#2 /home/gbsprojects/public_html/soc_sixth/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/ReportableHandler.php(62): Illuminate\Foundation\Exceptions\ReportableHandler->firstClosureParameterTypes(Object(Closure))
+#3 /home/gbsprojects/public_html/soc_sixth/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(234): Illuminate\Foundation\Exceptions\ReportableHandler->handles(Object(Error))
+#4 /home/gbsprojects/public_html/soc_sixth/vendor/laravel/framework/src/Illumin in /home/gbsprojects/public_html/soc_sixth/vendor/laravel/framework/src/Illuminate/Collections/Collection.php on line 31
+[12-Feb-2022 06:24:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Illuminate\Support\Collection::getArrayableItems() in /home/gbsprojects/public_html/soc_sixth/vendor/laravel/framework/src/Illuminate/Collections/Collection.php:31
+Stack trace:
+#0 /home/gbsprojects/public_html/soc_sixth/vendor/laravel/framework/src/Illuminate/Collections/helpers.php(15): Illuminate\Support\Collection->__construct(Array)
+#1 /home/gbsprojects/public_html/soc_sixth/vendor/laravel/framework/src/Illuminate/Support/Traits/ReflectsClosures.php(49): collect(Array)
+#2 /home/gbsprojects/public_html/soc_sixth/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/ReportableHandler.php(62): Illuminate\Foundation\Exceptions\ReportableHandler->firstClosureParameterTypes(Object(Closure))
+#3 /home/gbsprojects/public_html/soc_sixth/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(234): Illuminate\Foundation\Exceptions\ReportableHandler->handles(Object(Error))
+#4 /home/gbsprojects/public_html/soc_sixth/vendor/laravel/framework/src/Illumin in /home/gbsprojects/public_html/soc_sixth/vendor/laravel/framework/src/Illuminate/Collections/Collection.php on line 31
+[12-Feb-2022 06:25:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Illuminate\Support\Collection::getArrayableItems() in /home/gbsprojects/public_html/soc_sixth/vendor/laravel/framework/src/Illuminate/Collections/Collection.php:31
+Stack trace:
+#0 /home/gbsprojects/public_html/soc_sixth/vendor/laravel/framework/src/Illuminate/Collections/helpers.php(15): Illuminate\Support\Collection->__construct(Array)
+#1 /home/gbsprojects/public_html/soc_sixth/vendor/laravel/framework/src/Illuminate/Support/Traits/ReflectsClosures.php(49): collect(Array)
+#2 /home/gbsprojects/public_html/soc_sixth/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/ReportableHandler.php(62): Illuminate\Foundation\Exceptions\ReportableHandler->firstClosureParameterTypes(Object(Closure))
+#3 /home/gbsprojects/public_html/soc_sixth/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(234): Illuminate\Foundation\Exceptions\ReportableHandler->handles(Object(Error))
+#4 /home/gbsprojects/public_html/soc_sixth/vendor/laravel/framework/src/Illumin in /home/gbsprojects/public_html/soc_sixth/vendor/laravel/framework/src/Illuminate/Collections/Collection.php on line 31
